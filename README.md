@@ -22,5 +22,4 @@ https://asciinema.org/a/F84Us6Pp9rP7FMIubePvSF4II
 
 https://asciinema.org/a/X884wkv6oW9SfYAOEWa78djS1
 
-https://asciinema.org/a/iYS2NQ97oyCgaMNE5AzKKYqCv
->
+<iframe src="https://asciinema.org/a/iYS2NQ97oyCgaMNE5AzKKYqCv?autoplay=1" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
