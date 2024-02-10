@@ -3,7 +3,8 @@
 
 <a href="https://codeclimate.com/github/Dema63/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/15b510d79321bd73ff8d/maintainability" /></ai
 
-https://asciinema.org/a/QwlKyNosSsw7IiYrXXwhOn60Q
+<iframe src="https://asciinema.org/a/QwlKyNosSsw7IiYrXXwhOn60Q?autoplay=1" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+
 
 https://asciinema.org/a/ogLjrMQjRaaovDxv01VSsjXD5
 
