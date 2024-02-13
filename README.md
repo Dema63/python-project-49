@@ -17,33 +17,38 @@ make install
 
 ### Games
 
-**Checking a number for even**
+**Checking a number for even.**
+
 Command to start the game - `brain-even`
 Game demo.
 [![asciicast](https://asciinema.org/a/YhKTXqfSaTrShTAZKtQ2tbEMe.svg)](https://asciinema.org/a/YhKTXqfSaTrShTAZKtQ2tbEMe)
 
 [![asciicast](https://asciinema.org/a/ogLjrMQjRaaovDxv01VSsjXD5.svg)](https://asciinema.org/a/ogLjrMQjRaaovDxv01VSsjXD5)
 
-**Calculator**
+**Calculator.**
+
 Command to start the game - `brain-calc`
 Game demo.
 [![asciicast](https://asciinema.org/a/4t8sHpHMGVAL5fRUqJyYE9asH.svg)](https://asciinema.org/a/4t8sHpHMGVAL5fRUqJyYE9asH)
 
 [![asciicast](https://asciinema.org/a/MZQ2pbeOO728SmqR31UlcQPTa.svg)](https://asciinema.org/a/MZQ2pbeOO728SmqR31UlcQPTa)
 
-**Find the greatest common divisor**
+**Find the greatest common divisor.**
+
 Command to start the game - `brain-gcd`
 Game demo.
 [![asciicast](https://asciinema.org/a/PLzmFthxFofXDykIAT8Y13pY8.svg)](https://asciinema.org/a/PLzmFthxFofXDykIAT8Y13pY8)
 [![asciicast](https://asciinema.org/a/vCAG2fZ9yHkOcjuJfzbHoCI8i.svg)](https://asciinema.org/a/vCAG2fZ9yHkOcjuJfzbHoCI8i)
 
-**Find missing number in the progression** 
+**Find missing number in the progression.** 
+
 Command to start the game - `brain-progression`
 Game demo.
 [![asciicast](https://asciinema.org/a/Fr96usW28fKbySgZmFCszvjQZ.svg)](https://asciinema.org/a/Fr96usW28fKbySgZmFCszvjQZ)
 [![asciicast](https://asciinema.org/a/F84Us6Pp9rP7FMIubePvSF4II.svg)](https://asciinema.org/a/F84Us6Pp9rP7FMIubePvSF4II)
 
-**Definition of a prime number** 
+**Definition of a prime number.** 
+
 Command to start the game - `brain-prime`
 Game demo.
 [![asciicast](https://asciinema.org/a/X884wkv6oW9SfYAOEWa78djS1.svg)](https://asciinema.org/a/X884wkv6oW9SfYAOEWa78djS1)
