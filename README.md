@@ -1,11 +1,12 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Dema63/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Dema63/python-project-49/actions)
 
-<a href="https://codeclimate.com/github/Dema63/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/15b510d79321bd73ff8d/maintainability" 
+<a href="https://codeclimate.com/github/Dema63/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/15b510d79321bd73ff8d/maintainability" /></a>
+
 
 BRAIN GAMES - This is a project consisting of five mini-games made as part of the Hexlet educational process. These games ask 3 questions that you need to answer correctly, if the answers are correct, you win. If you lose, the game will ask you to try again.
 
-##How to install:
+## How to install:
 
 ```bash
 git clone https://github.com/Dema63/python-project-49
@@ -13,13 +14,11 @@ cd python-project-49/
 install poetry
 make install
 
-###Games
+### Games
 
 **Checking a number for even**
 Command to start the game - `brain-even`
-
-
-https://asciinema.org/a/QwlKyNosSsw7IiYrXXwhOn60Q
+[![asciicast](https://asciinema.org/a/YhKTXqfSaTrShTAZKtQ2tbEMe.svg)](https://asciinema.org/a/YhKTXqfSaTrShTAZKtQ2tbEMe)
 
 https://asciinema.org/a/ogLjrMQjRaaovDxv01VSsjXD5
 
