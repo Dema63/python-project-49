@@ -13,6 +13,7 @@ git clone https://github.com/Dema63/python-project-49
 cd python-project-49/
 install poetry
 make install
+```
 
 ### Games
 
