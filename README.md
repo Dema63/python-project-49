@@ -19,22 +19,32 @@ make install
 
 **Checking a number for even**
 Command to start the game - `brain-even`
+Game demo.
 [![asciicast](https://asciinema.org/a/YhKTXqfSaTrShTAZKtQ2tbEMe.svg)](https://asciinema.org/a/YhKTXqfSaTrShTAZKtQ2tbEMe)
 
-https://asciinema.org/a/ogLjrMQjRaaovDxv01VSsjXD5
+[![asciicast](https://asciinema.org/a/ogLjrMQjRaaovDxv01VSsjXD5.svg)](https://asciinema.org/a/ogLjrMQjRaaovDxv01VSsjXD5)
 
-https://asciinema.org/a/4t8sHpHMGVAL5fRUqJyYE9asH
+**Calculator**
+Command to start the game - `brain-calc`
+Game demo.
+[![asciicast](https://asciinema.org/a/4t8sHpHMGVAL5fRUqJyYE9asH.svg)](https://asciinema.org/a/4t8sHpHMGVAL5fRUqJyYE9asH)
 
-https://asciinema.org/a/MZQ2pbeOO728SmqR31UlcQPTa
+[![asciicast](https://asciinema.org/a/MZQ2pbeOO728SmqR31UlcQPTa.svg)](https://asciinema.org/a/MZQ2pbeOO728SmqR31UlcQPTa)
 
-https://asciinema.org/a/PLzmFthxFofXDykIAT8Y13pY8
+**Find the greatest common divisor**
+Command to start the game - `brain-gcd`
+Game demo.
+[![asciicast](https://asciinema.org/a/PLzmFthxFofXDykIAT8Y13pY8.svg)](https://asciinema.org/a/PLzmFthxFofXDykIAT8Y13pY8)
+[![asciicast](https://asciinema.org/a/vCAG2fZ9yHkOcjuJfzbHoCI8i.svg)](https://asciinema.org/a/vCAG2fZ9yHkOcjuJfzbHoCI8i)
 
-https://asciinema.org/a/vCAG2fZ9yHkOcjuJfzbHoCI8i
+**Find missing number in the progression** 
+Command to start the game - `brain-progression`
+Game demo.
+[![asciicast](https://asciinema.org/a/Fr96usW28fKbySgZmFCszvjQZ.svg)](https://asciinema.org/a/Fr96usW28fKbySgZmFCszvjQZ)
+[![asciicast](https://asciinema.org/a/F84Us6Pp9rP7FMIubePvSF4II.svg)](https://asciinema.org/a/F84Us6Pp9rP7FMIubePvSF4II)
 
-https://asciinema.org/a/Fr96usW28fKbySgZmFCszvjQZ
-
-https://asciinema.org/a/F84Us6Pp9rP7FMIubePvSF4II
-
-https://asciinema.org/a/X884wkv6oW9SfYAOEWa78djS1
-
-https://asciinema.org/a/iYS2NQ97oyCgaMNE5AzKKYqCv
+**Definition of a prime number** 
+Command to start the game - `brain-prime`
+Game demo.
+[![asciicast](https://asciinema.org/a/X884wkv6oW9SfYAOEWa78djS1.svg)](https://asciinema.org/a/X884wkv6oW9SfYAOEWa78djS1)
+[![asciicast](https://asciinema.org/a/iYS2NQ97oyCgaMNE5AzKKYqCv.svg)](https://asciinema.org/a/iYS2NQ97oyCgaMNE5AzKKYqCv)
